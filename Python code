@@ -32,7 +32,7 @@ def executa_comando():
 
     return comando
 
-#funcao de atividades que podem ser realizadas
+#funcao de atividades que a maria pode realizer adicione mais se quiser
 def comando_voz_usuario():
     comando = executa_comando()
     if 'horas' in comando:
